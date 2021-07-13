@@ -1,0 +1,21 @@
+{
+    "name": "crypto-game",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "express-ws": "^5.0.2",
+        "node-pty": "^0.10.1",
+        "node-pty-mac": "^0.0.1",
+        "xterm": "^4.13.0"
+    }
+}
